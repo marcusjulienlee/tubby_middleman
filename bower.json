@@ -1,0 +1,14 @@
+{
+  "name": "AppName",
+  "version": "0.0.1",
+  "homepage": "AppHomePage",
+  "authors": [
+    "Stepan Parunashvili"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.1.0",
+    "underscore": "1.6.0"
+  }
+}
